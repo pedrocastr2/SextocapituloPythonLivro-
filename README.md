@@ -3,7 +3,9 @@ Este capítulo do livro foca na aleatoriedade , utilizado em jogos como pedra ,p
 Exemplo do livro:
 
 #cor aleatória:
+
 import random
+
 colors =["red","yellow","blue","green","orange","purple","while","gray"]
 
 random.choice(colors)
