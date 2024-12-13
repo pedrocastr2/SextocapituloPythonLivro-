@@ -1,4 +1,4 @@
-Este capítulo do livro foca na aleatoriedade , utilizado em jogos como pedra ,papel,tesoura ou adivinhação de números , utilizando a biblioteca random.
+Este capítulo do livro foca na aleatoriedade e coordenadas cartesianas , utilizado em jogos como pedra ,papel,tesoura ou adivinhação de números , utilizando a biblioteca random.
 
 Exemplo do livro:
 
