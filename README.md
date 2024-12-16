@@ -2,6 +2,7 @@ Este capítulo do livro foca na aleatoriedade e coordenadas cartesianas , utiliz
 
 Exemplo do livro:
 
+
 #cor aleatória:
 
 import random
@@ -9,6 +10,7 @@ import random
 colors =["red","yellow","blue","green","orange","purple","while","gray"]
 
 random.choice(colors)
+
 
 
 
