@@ -9,3 +9,6 @@ import random
 colors =["red","yellow","blue","green","orange","purple","while","gray"]
 
 random.choice(colors)
+
+
+![image](https://github.com/user-attachments/assets/acd1eb3d-7c91-4d3b-9925-8dbb26bfcb3c)
